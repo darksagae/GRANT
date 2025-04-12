@@ -25,4 +25,32 @@ To strengthen and improve early warning system for floods and drought to reduce 
 To provide farmers with reliable forecast optimize planting, harvesting and resource management hence enhancing agricultural productive 
 To ensure accessibility through delivering forecasts through user friendly mobile interfaces connected to rural communities 
 
+JUSTIFICATIONS AND SIGNIFICANCE
+
+Reliable weather forecasts are essential to plan planting schedules based on the expected rain fall or temperature patterns, harvesting and research management to maximize crop yields and sustain livelihoods. The current lack of accurate predictions leads to significant loses from weather disasters.
+Anticipating droughts and floods helps to optimize water resource allocations crucial for environment facing climate variability.
+Early warning of extreme events like heavy rain fall enable better mitigation strategies with AI models. Traditional forecasting face limitations due to computations demands and challenges in capturing long term variability under climate change. This research is significant because it addresses a critical gap in long term weather prediction by developing an AI driven model.
+It contributes to broader effects in climate science by exploring machine language application in environmental science 
+
+LITERATURE REVIEW
+
+The development of AI driven forecasting system in Uganda builds on a growing body of research highlighting the potential of machine learning to enhance meteorological predictions. This review synthesizes the key studies on weather forecasting, AI application in meteorology and specific challenges of Uganda agricultural and climatic context to justify the proposed project. 
+
+Machine learning offers a solution by analysis sparse heterogeneous data to deliver accurate forecast. Studies in India and Kenya demonstrates AI usability to improve predictions and boost yields through localized forecast. In Africa machine learning, has enhanced decision making in Rwanda seeing gains in agricultural outcomes via mobile based systems. However some challenges like low data literacy require use friendly interfaces. 
+
+Accurate weather forecasting is critical for agricultural planning and disaster preparedness. In Uganda, the UNMA operates fewer weather stations far below the world meteorological organisation's density. This sparsity results into unreliable forecast that fail to capture region micro climates such as the humid lake Victoria and semi arid Karamoja region. The limitations directly affect farmers who rely on precise prediction for planting and harvesting.
+
+Traditional numerical weather prediction models require computation resource and dense data input making it less feasible for countries like Uganda. Studies emphasize the need for alternative approaches that leverage sparse data and affordable technology to deliver localized forecast
+
+Current research lacks integration of UNMA and personal weather station data to focus on practical deliver to farmers. The proposed project addresses these gaps leveraging diverse data sources and accessible platform promising to enhance agricultural resilience and food security in Uganda's vulnerable context. In developing context AI has shown a promise for bridging gaps. For example in Kenya, Ngugi et al (2021) developed an ML based system combining weather station and remote sensing data to provide farm level forecasts which improved maize yields by 12%. With this potential of AI, this highlights it's ability to adapt to a sparse heterogeneous data which is a critical feature for Uganda where station coverage is limited. 
+
+Uganda's agricultural contributing 25% to GDP is predominately rain fed making it sensitive to weather variability. Localised forecasting is particularly critical given Uganda's diverse micro climate. Integrating data from personal weather station as proposed could address this by providing annual predictions.
+
+AI's potential in agriculture extends beyond forecasting to decision support and optimization. In Rwanda a pilot project by the CGIAR delivered a machine learning based weather alert via SMS which boosted the farmer adoption of climate by 25%, this demonstrates the feasibility of deploying AI in low resource settings particular through mobile platforms accessible to rural communities 
+
+METHODOLOGY
+
+REFERNCES 
+
+APPENDIX  
 
