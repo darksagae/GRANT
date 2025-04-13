@@ -51,6 +51,6 @@ AI's potential in agriculture extends beyond forecasting to decision support and
 METHODOLOGY
 
 REFERNCES 
-
+https://docs.google.com/spreadsheets/d/1Qg5DLfitYI61wmspNyAbRj1tO33FYp-FLxiJ1JELj1g/edit?usp=sharing
 APPENDIX  
 
